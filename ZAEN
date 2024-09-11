@@ -1,36 +1,3 @@
-#EXTINF:0 group-title="LIGA EROPA" tvg-logo="https://hometv.pw/logo/sports2/rmc.png",LIGA INGGRIS 1
-http://provip-titan.com:2052/medouSMV1/QAKzVVEqJns9/37101
-
-#EXTINF:0 group-title="LIGA EROPA" tvg-logo="https://hometv.pw/logo/sports2/rmc.png",LIGA INGGRIS 2
-http://141580931563812718.ofre802.xyz:80/live/te422475/nX6DMGevD6U/812718.ts
-
-#EXTINF:0 group-title="LIGA EROPA" tvg-logo="https://hometv.pw/logo/sports2/rmc.png",LIGA INGGRIS 3
-http://provip-titan.com:2052/medouSMV1/QAKzVVEqJns9/37091
-
-#EXTINF:0 group-title="LIGA EROPA" tvg-logo="https://hometv.pw/logo/sports2/rmc.png",LIGA INGGRIS 3
-http://dreamtv22.info:25461/live/reciver_364604/v8YapFSS/36802.ts
-
-#EXTINF:0 group-title="LIGA EROPA" tvg-logo="https://hometv.pw/logo/sports2/rmc.png",LIGA INGGRIS 4
-http://dreamtv22.info:25461/live/reciver_364604/v8YapFSS/36804.ts
-
-#EXTINF:0 group-title="LIGA EROPA" tvg-logo="https://hometv.pw/logo/sports2/rmc.png",LIGA INGGRIS 5
-http://103.155.250.139:25461/live/v3/Ub5dHa4TJp/228.ts
-
-#EXTINF:0 group-title="LIGA EROPA" tvg-logo="https://hometv.pw/logo/sports2/rmc.png",SERI A 1
-http://dreamtv22.info:25461/live/reciver_364604/v8YapFSS/32106.ts
-
-#EXTINF:0 group-title="LIGA EROPA" tvg-logo="https://hometv.pw/logo/sports2/rmc.png",SERI A 2
-http://dreamtv22.info:25461/live/reciver_364604/v8YapFSS/32109.ts
-
-#EXTINF:0 group-title="LIGA EROPA" tvg-logo="https://hometv.pw/logo/sports2/rmc.png", LALIGA 1
-http://br0ss.xyz:8090/live/WiTepan/W1lmerT3/122973.ts
-
-#EXTINF:0 group-title="LIGA EROPA" tvg-logo="https://hometv.pw/logo/sports2/rmc.png", LALIGA 2
-http://br0ss.xyz:8090/live/WiTepan/W1lmerT3/159347.ts
-
-#EXTINF:0 group-title="LIGA EROPA" tvg-logo="https://hometv.pw/logo/sports2/rmc.png", LALIGA 3
-http://fortv.cc:8080/ZA1kpw/712407/16130
-
 
 //========================================================================
 //copy right by, menampilkan playlist >>> LOKAL 
@@ -166,6 +133,44 @@ https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
 
 #EXTINF:-1 tvg-logo="https://hometv.pw/logo/tv_daerah2/jowo_channel.png" group-title="Lokal Zaen",JOWO CHANNEL
 http://103.127.137.190:80/Sugeng/msY9yqKyrR/111
+
+//========================================================================
+//copy right by, menampilkan playlist >>> LIGA TOP EROPA
+//========================================================================
+#EXTINF:0 group-title="LIGA EROPA" tvg-logo="https://hometv.pw/logo/sports2/rmc.png",LIGA INGGRIS 1
+http://provip-titan.com:2052/medouSMV1/QAKzVVEqJns9/37101
+
+#EXTINF:0 group-title="LIGA EROPA" tvg-logo="https://hometv.pw/logo/sports2/rmc.png",LIGA INGGRIS 2
+http://141580931563812718.ofre802.xyz:80/live/te422475/nX6DMGevD6U/812718.ts
+
+#EXTINF:0 group-title="LIGA EROPA" tvg-logo="https://hometv.pw/logo/sports2/rmc.png",LIGA INGGRIS 3
+http://provip-titan.com:2052/medouSMV1/QAKzVVEqJns9/37091
+
+#EXTINF:0 group-title="LIGA EROPA" tvg-logo="https://hometv.pw/logo/sports2/rmc.png",LIGA INGGRIS 3
+http://dreamtv22.info:25461/live/reciver_364604/v8YapFSS/36802.ts
+
+#EXTINF:0 group-title="LIGA EROPA" tvg-logo="https://hometv.pw/logo/sports2/rmc.png",LIGA INGGRIS 4
+http://dreamtv22.info:25461/live/reciver_364604/v8YapFSS/36804.ts
+
+#EXTINF:0 group-title="LIGA EROPA" tvg-logo="https://hometv.pw/logo/sports2/rmc.png",LIGA INGGRIS 5
+http://103.155.250.139:25461/live/v3/Ub5dHa4TJp/228.ts
+
+#EXTINF:0 group-title="LIGA EROPA" tvg-logo="https://hometv.pw/logo/sports2/rmc.png",SERI A 1
+http://dreamtv22.info:25461/live/reciver_364604/v8YapFSS/32106.ts
+
+#EXTINF:0 group-title="LIGA EROPA" tvg-logo="https://hometv.pw/logo/sports2/rmc.png",SERI A 2
+http://dreamtv22.info:25461/live/reciver_364604/v8YapFSS/32109.ts
+
+#EXTINF:0 group-title="LIGA EROPA" tvg-logo="https://hometv.pw/logo/sports2/rmc.png", LALIGA 1
+http://br0ss.xyz:8090/live/WiTepan/W1lmerT3/122973.ts
+
+#EXTINF:0 group-title="LIGA EROPA" tvg-logo="https://hometv.pw/logo/sports2/rmc.png", LALIGA 2
+http://br0ss.xyz:8090/live/WiTepan/W1lmerT3/159347.ts
+
+#EXTINF:0 group-title="LIGA EROPA" tvg-logo="https://hometv.pw/logo/sports2/rmc.png", LALIGA 3
+http://fortv.cc:8080/ZA1kpw/712407/16130
+
+
 
 //========================================================================
 //copy right by, menampilkan playlist >>> SPORTS ID
