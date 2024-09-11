@@ -87,10 +87,7 @@ http://iptvmedia.live:8080/live/adastream2023/Bye5XZwQ8d5Cbs5/157591.ts
 
 
 #EXTINF:0 group-title="Lokal Zaen" tvg-logo="https://hometv.pw/logo/lokal2/mnctv.png",MNC TV
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-https://melon-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
+http://iptvmedia.live:8080/live/adastream2023/Bye5XZwQ8d5Cbs5/165054.ts
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -129,25 +126,15 @@ http://op-group1-swiftservehd-1.dens.tv/h/h224/02.m3u8
 #EXTINF:0 group-title="Lokal Zaen" tvg-logo="http://www.dens.tv/images/channel-logo/11.jpg", TransTv
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_b744100_sleng.m3u8
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alphastro supersporta
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh
-#EXTINF:-1 tvg-id="TransTV" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c68574537fcd0174be43042758d8/36f75de0a5b543da8d17c46db9d44178.jpg" group-title="Lokal Zaen",TransTV HD
-https://dsgtq5sngxkde.cloudfront.net/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
+#EXTINF:0 group-title="Lokal Zaen" tvg-logo="http://www.dens.tv/images/channel-logo/11.jpg", TransTv HD
+http://iptvmedia.live:8080/live/adastream2023/Bye5XZwQ8d5Cbs5/162503.ts
 
 
 #EXTINF:0 group-title="Lokal Zaen" tvg-logo="http://www.dens.tv/images/channel-logo/12.jpg", Trans 7
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_b744100_sleng.m3u8
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alphastro supersporta
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh
-#EXTINF:-1 tvg-id="Trans7" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_110.png" group-title="Lokal Zaen",Trans7 HD
-https://dsgtq5sngxkde.cloudfront.net/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
+#EXTINF:0 group-title="Lokal Zaen" tvg-logo="http://www.dens.tv/images/channel-logo/12.jpg", Trans 7 HD
+http://iptvmedia.live:8080/live/adastream2023/Bye5XZwQ8d5Cbs5/162502.ts
 
 
 #EXTINF:0 group-title="Lokal Zaen" tvg-logo="http://www.dens.tv/images/channel-logo/8.jpg", ANTV
